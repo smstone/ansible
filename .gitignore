@@ -52,3 +52,4 @@ venv
 Vagrantfile
 .vagrant
 ansible.egg-info/
+update_ansible.sh
